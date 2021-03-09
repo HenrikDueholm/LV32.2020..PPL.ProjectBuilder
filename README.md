@@ -6,7 +6,8 @@ To get started examine the contained example bat files in "\data" to see how an 
 # Implemented Functions
 Run Caraya unit test, 
 Change build spec version to version from project repository git tag, 
-Execute build specification 
+Execute build specification,
+Copy build product to another folder
 
 # Dependencies
 PPL.ClassLoader - HenrikDueholm - https://github.com/HenrikDueholm/LV32.2020..PPL.ClassLoader
