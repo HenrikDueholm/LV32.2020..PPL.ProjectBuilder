@@ -15,6 +15,7 @@ For a more complete description see the readme for [LV32.2020..ProjectBuilder][1
 - Run Caraya test
 - Change build spec version to version from project repository git tag
 - Execute build specification
+- PPL Class Test
 - Copy build product to another folder
 - Run System Exec
 ```
